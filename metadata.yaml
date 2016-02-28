@@ -1,0 +1,36 @@
+_repo: Pelle-the-Conqueror-Volume-02_7792
+contributor:
+  translator:
+    agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+creator:
+  author:
+    agent_name: Andersen Nexø, Martin
+    aliases:
+    - Nekse, Martin Andersen
+    - Nexø, Martin Andersen
+    - Andersen, Martin
+    - Nexo, Martin Andersen
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '2530'
+    url: http://www.gutenberg.org/2009/agents/2530
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Andersen_Nexø
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Immigrants -- Denmark -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+title: Pelle the Conqueror — Volume 02
+url: http://www.gutenberg.org/ebooks/7792
